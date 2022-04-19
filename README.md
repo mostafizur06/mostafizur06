@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafizur06&show_icons=true&locale=en&layout=compact" alt="mostafizur06" /></p>
 
-<p></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafizur06&show_icons=true&locale=en" alt="mostafizur06" /></p>
+<p><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafizur06&show_icons=true&locale=en" alt="mostafizur06" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafizur06&label=Profile%20views&color=0e75b6&style=flat" alt="mostafizur06" /> </p>
