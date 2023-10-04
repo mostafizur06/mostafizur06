@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/mostafizur06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafizur06" height="30" width="40" /></a>&nbsp;
 <a href="https://linkedin.com/in/mostafizur06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafizur06" height="30" width="40" /></a>&nbsp;
-<a href="https://fb.com/mmostafizur.sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohan.mostafizur" height="30" width="40" /></a>
+<a href="https://fb.com/sohan.mostafziur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohan.mostafizur" height="30" width="40" /></a>
   
 
 </p>
